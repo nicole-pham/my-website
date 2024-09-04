@@ -1,14 +1,14 @@
 ---
-title: "Teaching experience 1"
+title: "TA for EE P 592: Radar Signals & Systems"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Professional master's course"
+permalink: /teaching/2024-autumn-teaching
+venue: "University of Washington, Electrical & Computer Engineering"
+date: 2024-09-25
+location: "Seattle, WA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Coming soon
 
 Heading 1
 ======

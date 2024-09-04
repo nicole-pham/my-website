@@ -11,35 +11,30 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* (IN PROGRESS) Ph.D in Electrical Engineering, University of Washington, TBD
+* M.S. in Electrical Engineering, University of Washington, 2024
+  * Combined BS/MS
+* B.S. in Electrical Engineering, University of Washington, 2022
+  * Combined BS/MS
+* A.S. in Engineering (Track 2), South Seattle College, 2020
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* June 2022 - July 2023: Systems Integration Engineer
+  * Philips Ultrasound
+  * Duties included: Troubleshooting electronic component integration, executing integration and reliability testing, and supporting production line operations
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* September 2020 - June 2022: Research Assistant
+  * University of Washington
+  * Duties included: Simulating autonomous underwater vehicle trajectories and debugging experimental acoustic transducer
   
+* June 2019 - August 2019: Azure Intern
+  * Microsoft
+  * Duties included: Architecting and developing new security risk tracking application for internal Microsoft resources
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Coming soon
 
 Publications
 ======
@@ -49,16 +44,19 @@ Publications
   
 Talks
 ======
+* Coming soon
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
 Teaching
 ======
+* Coming soon
+
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Coming soon
